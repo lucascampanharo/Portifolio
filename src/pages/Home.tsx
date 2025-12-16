@@ -4,7 +4,6 @@ function Home() {
   return (
     <>
       <Title />
-      <h1>TESTE2</h1>
     </>
   );
 }
